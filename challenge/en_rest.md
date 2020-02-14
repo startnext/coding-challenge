@@ -1,5 +1,7 @@
 # Startnext Coding Challenge
 
+Fork this repository in private repository and add @verbunden (Benjamin Brandt) and @frzb (Gunter Miegel) as collaborators.
+
 > Design a simple REST API which could be used as part of a Crowdfunding platform.
 > Implement this API as a RESTful web service.
 
