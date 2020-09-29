@@ -1,6 +1,6 @@
 # Startnext Coding Challenge
 
-Forke dieses Repository in ein privates Repository und füge @verbunden (Benjamin Brandt) und @frzb (Gunter Miegel) als Mitarbeiter hinzu. 
+[Dupliziere][duplicate] dieses Repository in ein privates Repository und füge @verbunden (Benjamin Brandt) und @frzb (Gunter Miegel) als Mitwirkende hinzu.
 
 > Entwerfe eine einfache REST API die Teil einer Crowdfunding-Platform sein könnte.
 > Implementiere diese API in einem RESTful Webservice.
@@ -47,3 +47,5 @@ Diese Punkte sind optional - hier einige Anregungen was Du zusaetzlich noch mach
 - CI/CD
 - Implementierung als Microservices
 - Weiterer API-Endpunkt in anderer Programmiersprache
+
+[duplicate]: https://docs.github.com/de/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
